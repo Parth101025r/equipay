@@ -66,7 +66,7 @@ $$
 ---
 
 ## System Architecture
-![flowchart image]([/path/to/img.jpg](https://postimg.cc/yWML8nR5))
+![flowchart image](https://postimg.cc/yWML8nR5)
 ### Technology Stack
 
 | Layer      | Technology                          | Key Features |
