@@ -66,7 +66,7 @@ $$
 ---
 
 ## System Architecture
-![System Architecture](Architecture.jpeg)
+![System Architecture](System%20Architecture.jpeg)
 ![flowchart image](https://postimg.cc/yWML8nR5)
 ### Technology Stack
 
